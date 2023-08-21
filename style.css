@@ -3,7 +3,85 @@ body {
   height: 100%;
   margin: 0;
 }
-hi {
+h1#center-text {
   
-  
+  /* text-align: center;
+  justify-content: center;
+  align-items: center;
+   */
+  width: 700px;
+   margin: auto;
+   text-align: center;
 }
+
+nav a {
+
+  background: lightgreen;
+  padding: 5px;
+  /* margin: 40px; */
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+display: inline-block;
+
+}
+
+section#featured-property {
+
+    display: grid;
+    place-items: center;
+
+}
+
+#center-caption {
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  width: 700px;
+}
+
+.like-css{
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  margin: auto;
+  background: red;
+  
+  width: 900pxpx;
+}
+
+#im-moving {
+  /* padding-left: 60px; */
+  margin-left: 500px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
